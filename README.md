@@ -1,4 +1,4 @@
-<h1 align="center">🦹‍♀️ QUEEN-X 🦹‍♀️<br></h1>
+<h1 align="center">🦹‍♀️  🦹‍♀️<br></h1>
 <p align="center"><img src="https://telegra.ph/file/e4c0e7eb7441a534e735e.jpg" alt="animated" /></p>
 
 
