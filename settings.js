@@ -24,16 +24,16 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 
 global.session = "YXF5RWYwZ0I=" //session Id 
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = '94719225807' //ur bot name
-global.linkz = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //your theme url which will be displayed on whatsapp
+global.ownernomer = "03015048456" //ur number
+global.premium = ['03015048456'] //ur premium number
+global.botname = 'BUSSINESS CONSULTANT HERE' //ur bot name
+global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.packname = "IM HERE TO PROVIDE YOU FAST SERVICE" //ur sticker watermark packname
+global.author = "" //ur sticker watermark author
+global.wm = "" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -57,10 +57,10 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("") //ur thumb pic
+global.log0 = fs.readFileSync("") //ur logo pic
+global.err4r = fs.readFileSync("") //ur error pic
+global.thumb = fs.readFileSync("") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
